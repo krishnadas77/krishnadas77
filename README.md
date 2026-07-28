@@ -36,20 +36,16 @@ I enjoy learning how products are designed, analyzed, manufactured, and improved
 ### CAD
 - SolidWorks
 - AutoCAD
-- Fusion 360
 
 ### Simulation
-- ANSYS Mechanical
-- ANSYS Fluent
-- MATLAB
-- Simulink
+- ANSYS
 
 ### Programming
-- Python (Learning)
-- C++ (Basics)
+- Python
+- C++
+- c
 
 ### Other Tools
-- Git & GitHub
 - Microsoft Office
 - Adobe Photoshop
 
@@ -65,67 +61,3 @@ I enjoy learning how products are designed, analyzed, manufactured, and improved
 - Machine Design
 - Manufacturing Processes
 
----
-
-## 📂 Featured Projects
-
-### 🏎 BAJA SAE India
-Powertrain and Cost Team Member
-
-- CVT Design
-- Powertrain Analysis
-- Cost Report Preparation
-- Design Optimization
-
----
-
-### 🤟 Speech Aid Device
-
-Designed a mechanical solution aimed at assisting speech-impaired individuals.
-
----
-
-### 🏍 Electric Dirt Bike
-
-Working on the mechanical design and development of an electric dirt bike.
-
----
-
-## 🎯 Career Interests
-
-- Mechanical Design Engineer
-- Product Design Engineer
-- R&D Engineer
-- Manufacturing Engineer
-- Automotive Engineering
-- Aerospace Engineering
-
----
-
-## 🌱 Goals for 2026
-
-- Improve Python for Engineering
-- Build Engineering Software Projects
-- Master ANSYS
-- Learn Advanced CAD Techniques
-- Contribute to Open Source
-- Publish Engineering Projects on GitHub
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR_EMAIL
-
----
-
-> *"Engineering is not just solving problems; it's creating solutions that make life better."*
